@@ -1,3 +1,48 @@
-GEM/weight/*.pth
-GEM/weight/*.774
+# System
+.DS_Store
+Thumbs.db
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+.env
+.ipynb_checkpoints/
+*.egg-info/
+dist/
+build/
+
+# Project Specific - GEM
 GEM/weight/
+
+
+# # Project Specific - GEM Demo
+# GEM/results/
+# GEM/demo/*.mp4
+# GEM/demo/*.jpg
+
+
+# # Project Specific - 3d_recon
+# 3d_recon/out/
+# 3d_recon/output/
+# 3d_recon/data/distorted_plane.obj
+
+# # Project Specific - real_facade
+# real_facade/
+
+# # Large Media & 3D Files
+# *.mp4
+# *.MOV
+# *.avi
+# *.mkv
+# *.exr
+# *.obj
+# *.ply
+# *.npy
+# *.pth
+# *.774
