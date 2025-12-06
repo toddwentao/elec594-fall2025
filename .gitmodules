@@ -1,0 +1,3 @@
+[submodule "DepthEstimation/co-tracker"]
+	path = DepthEstimation/co-tracker
+	url = https://github.com/facebookresearch/co-tracker.git

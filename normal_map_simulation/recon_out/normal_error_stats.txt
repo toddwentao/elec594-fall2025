@@ -1,0 +1,5 @@
+Mean error (deg):   72.973149
+Median error (deg): 80.631383
+Max error (deg):    128.012780
+Best permutation: (0, 2, 1)
+Best signs: (-1, 1, 1)
